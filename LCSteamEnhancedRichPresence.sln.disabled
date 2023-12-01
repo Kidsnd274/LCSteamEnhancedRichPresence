@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LCSteamEnhancedRichPresence", "LCSteamEnhancedRichPresence\LCSteamEnhancedRichPresence.csproj", "{5D8E13C8-1831-460E-A04C-2B9B6C4112A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LCSteamEnhancedRichPresence", "LCSteamEnhancedRichPresence\LCSteamEnhancedRichPresence.csproj", "{2BCCE169-EDE0-495F-B1CD-A519CA6892BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5D8E13C8-1831-460E-A04C-2B9B6C4112A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D8E13C8-1831-460E-A04C-2B9B6C4112A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D8E13C8-1831-460E-A04C-2B9B6C4112A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D8E13C8-1831-460E-A04C-2B9B6C4112A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCCE169-EDE0-495F-B1CD-A519CA6892BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCCE169-EDE0-495F-B1CD-A519CA6892BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCCE169-EDE0-495F-B1CD-A519CA6892BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCCE169-EDE0-495F-B1CD-A519CA6892BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {91295FDC-A499-44F7-A6B1-7A3078B95664}
+		SolutionGuid = {D2DEFA87-F9B0-4482-B33D-C299A42298DF}
 	EndGlobalSection
 EndGlobal

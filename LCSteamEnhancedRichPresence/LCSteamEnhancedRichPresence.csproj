@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>LCSteamEnhancedRichPresence</AssemblyName>
     <Description>My first plugin</Description>
     <Version>1.0.0</Version>
@@ -22,13 +22,13 @@
 
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>I:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp.dll</HintPath> <!-- Edit this to the actual location -->
+      <HintPath>.\lib\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>I:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.dll</HintPath> <!-- Edit this to the actual location -->
+      <HintPath>.\lib\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="Facepunch.Steamworks.Win64">
-      <HintPath>I:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Facepunch.Steamworks.Win64.dll</HintPath>
-    </Reference>
+	  <Reference Include="Facepunch.Steamworks.Win64">
+		  <HintPath>.\lib\Facepunch.Steamworks.Win64.dll</HintPath>
+	  </Reference>
   </ItemGroup>
 </Project>
